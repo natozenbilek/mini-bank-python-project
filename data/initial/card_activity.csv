@@ -1,0 +1,453 @@
+date,card_id,kind,merchant,category,amount
+2026-09-01,7310,spend,Organik Pazar,market,870
+2026-09-01,5937,spend,Giyim Mağazası,giyim,400
+2026-09-01,6605,spend,Eczane,sağlık,170
+2026-09-01,3092,spend,Eczane,sağlık,210
+2026-09-01,8417,spend,Giyim Mağazası,giyim,1320
+2026-09-01,9583,spend,Taksi,ulaşım,450
+2026-09-01,4479,spend,Eczane,sağlık,390
+2026-09-01,2750,spend,Pizza Fırını,yemek,230
+2026-09-02,7310,spend,Kırtasiye,kitap,280
+2026-09-02,2264,spend,Ayakkabıcı,giyim,2120
+2026-09-02,6605,spend,Kitapçı,kitap,350
+2026-09-02,8417,spend,Kart Dolum,ulaşım,210
+2026-09-02,2750,spend,Kitapçı,kitap,70
+2026-09-03,5937,spend,Giyim Mağazası,giyim,1350
+2026-09-03,4479,spend,Eczane,sağlık,200
+2026-09-03,2750,spend,Ayakkabıcı,giyim,1450
+2026-09-04,2264,spend,Giyim Mağazası,giyim,1650
+2026-09-04,1148,spend,Eczane,sağlık,420
+2026-09-04,9583,spend,Akaryakıt,ulaşım,260
+2026-09-04,2750,spend,Taksi,ulaşım,150
+2026-09-05,7310,spend,Oyun Mağazası,eğlence,560
+2026-09-05,2264,spend,Kart Dolum,ulaşım,450
+2026-09-05,1148,spend,Köşe Lokanta,yemek,110
+2026-09-05,6605,spend,Organik Pazar,market,330
+2026-09-05,3092,spend,Taksi,ulaşım,270
+2026-09-05,9583,spend,Kitapçı,kitap,240
+2026-09-05,4479,spend,Ucuz Market,market,160
+2026-09-05,2750,spend,Akaryakıt,ulaşım,120
+2026-09-06,4821,spend,Taksi,ulaşım,530
+2026-09-06,7310,spend,Köşe Lokanta,yemek,210
+2026-09-06,5937,spend,Mahalle Market,market,250
+2026-09-06,1148,spend,Kırtasiye,kitap,280
+2026-09-06,6605,spend,Taksi,ulaşım,160
+2026-09-06,3092,spend,Taksi,ulaşım,520
+2026-09-06,9583,spend,Ayakkabıcı,giyim,1160
+2026-09-06,4479,spend,Kart Dolum,ulaşım,50
+2026-09-06,2750,spend,Konser Bileti,eğlence,290
+2026-09-07,4821,spend,Bulut Depo,abonelik,29
+2026-09-07,7310,spend,Bulut Depo,abonelik,29
+2026-09-07,2264,spend,Spor Salonu,abonelik,750
+2026-09-07,5937,spend,Spor Salonu,abonelik,750
+2026-09-07,5937,spend,Müzik Kutusu,abonelik,59
+2026-09-07,1148,spend,Müzik Kutusu,abonelik,59
+2026-09-07,1148,spend,Spor Salonu,abonelik,750
+2026-09-07,1148,spend,Dizi Kutusu,abonelik,149
+2026-09-07,6605,spend,Dizi Kutusu,abonelik,149
+2026-09-07,6605,spend,Spor Salonu,abonelik,750
+2026-09-07,6605,spend,Müzik Kutusu,abonelik,59
+2026-09-07,3092,spend,Bulut Depo,abonelik,29
+2026-09-07,3092,spend,Dizi Kutusu,abonelik,149
+2026-09-07,3092,spend,Müzik Kutusu,abonelik,59
+2026-09-07,8417,spend,Müzik Kutusu,abonelik,59
+2026-09-07,8417,spend,Bulut Depo,abonelik,29
+2026-09-07,8417,spend,Spor Salonu,abonelik,750
+2026-09-07,9583,spend,Bulut Depo,abonelik,29
+2026-09-07,9583,spend,Spor Salonu,abonelik,750
+2026-09-07,9583,spend,Dizi Kutusu,abonelik,149
+2026-09-07,4479,spend,Dizi Kutusu,abonelik,149
+2026-09-07,4479,spend,Müzik Kutusu,abonelik,59
+2026-09-07,4479,spend,Spor Salonu,abonelik,750
+2026-09-07,4479,spend,Giyim Mağazası,giyim,2120
+2026-09-07,2750,spend,Spor Salonu,abonelik,750
+2026-09-07,2750,spend,Bulut Depo,abonelik,29
+2026-09-07,2750,spend,Dürümcü,yemek,120
+2026-09-07,6138,spend,Müzik Kutusu,abonelik,59
+2026-09-07,6138,spend,Organik Pazar,market,580
+2026-09-08,4821,spend,Konser Bileti,eğlence,140
+2026-09-08,2264,spend,Oyun Mağazası,eğlence,370
+2026-09-08,3092,spend,Konser Bileti,eğlence,170
+2026-09-08,9583,spend,Kitapçı,kitap,370
+2026-09-08,4479,spend,Taksi,ulaşım,540
+2026-09-08,6138,spend,Giyim Mağazası,giyim,1580
+2026-09-09,4821,spend,Ayakkabıcı,giyim,2100
+2026-09-09,7310,spend,Eczane,sağlık,430
+2026-09-09,2264,spend,Organik Pazar,market,220
+2026-09-09,5937,spend,Köşe Lokanta,yemek,280
+2026-09-09,1148,spend,Köşe Lokanta,yemek,90
+2026-09-09,6605,spend,Taksi,ulaşım,520
+2026-09-09,8417,spend,Giyim Mağazası,giyim,2280
+2026-09-09,9583,spend,Konser Bileti,eğlence,340
+2026-09-10,4821,spend,Taksi,ulaşım,310
+2026-09-10,6605,spend,Kırtasiye,kitap,430
+2026-09-11,7310,spend,Kitapçı,kitap,150
+2026-09-11,1148,spend,Akaryakıt,ulaşım,130
+2026-09-11,6605,spend,Eczane,sağlık,150
+2026-09-11,3092,spend,Kampüs Kafe,yemek,320
+2026-09-11,9583,spend,Kitapçı,kitap,210
+2026-09-11,2750,spend,Ayakkabıcı,giyim,1130
+2026-09-11,6138,spend,Akaryakıt,ulaşım,330
+2026-09-12,7310,spend,Oyun Mağazası,eğlence,480
+2026-09-12,7310,payment,-,-,342
+2026-09-12,1148,spend,Mahalle Market,market,350
+2026-09-12,3092,spend,Ayakkabıcı,giyim,1340
+2026-09-12,8417,payment,-,-,306
+2026-09-12,9583,spend,Dürümcü,yemek,260
+2026-09-12,2750,spend,Kırtasiye,kitap,70
+2026-09-12,6138,spend,Eczane,sağlık,420
+2026-09-13,4821,spend,Organik Pazar,market,830
+2026-09-13,7310,spend,Köşe Lokanta,yemek,70
+2026-09-13,2264,spend,Eczane,sağlık,390
+2026-09-13,5937,spend,Taksi,ulaşım,200
+2026-09-13,3092,spend,Akaryakıt,ulaşım,270
+2026-09-13,8417,spend,Giyim Mağazası,giyim,1520
+2026-09-13,9583,spend,Ayakkabıcı,giyim,1240
+2026-09-13,2750,spend,Kart Dolum,ulaşım,590
+2026-09-13,6138,spend,Kampüs Kafe,yemek,160
+2026-09-14,1148,spend,Organik Pazar,market,420
+2026-09-14,6605,spend,Konser Bileti,eğlence,340
+2026-09-14,6138,spend,Giyim Mağazası,giyim,420
+2026-09-15,7310,spend,Oyun Mağazası,eğlence,300
+2026-09-15,2264,spend,Eczane,sağlık,370
+2026-09-15,5937,spend,Akaryakıt,ulaşım,200
+2026-09-15,1148,spend,Ucuz Market,market,520
+2026-09-15,3092,spend,Eczane,sağlık,80
+2026-09-16,4821,spend,Ucuz Market,market,640
+2026-09-16,7310,spend,Kırtasiye,kitap,150
+2026-09-16,2264,spend,Pizza Fırını,yemek,130
+2026-09-16,6605,spend,Oyun Mağazası,eğlence,380
+2026-09-16,3092,spend,Taksi,ulaşım,390
+2026-09-16,8417,spend,Eczane,sağlık,330
+2026-09-16,4479,spend,Akaryakıt,ulaşım,380
+2026-09-17,4821,spend,Eczane,sağlık,360
+2026-09-17,2264,spend,Dürümcü,yemek,70
+2026-09-17,5937,payment,-,-,3089
+2026-09-17,1148,spend,Kırtasiye,kitap,160
+2026-09-17,6605,spend,Oyun Mağazası,eğlence,510
+2026-09-17,3092,spend,Oyun Mağazası,eğlence,410
+2026-09-17,9583,payment,-,-,3748
+2026-09-17,6138,payment,-,-,443
+2026-09-18,7310,spend,Konser Bileti,eğlence,190
+2026-09-18,2264,spend,Oyun Mağazası,eğlence,410
+2026-09-18,1148,spend,Giyim Mağazası,giyim,1840
+2026-09-18,6605,spend,Eczane,sağlık,180
+2026-09-18,3092,spend,Sinema Salonu,eğlence,540
+2026-09-18,2750,spend,Ucuz Market,market,460
+2026-09-19,4821,spend,Oyun Mağazası,eğlence,140
+2026-09-19,7310,spend,Kitapçı,kitap,180
+2026-09-19,5937,spend,Kampüs Kafe,yemek,320
+2026-09-19,1148,spend,Kitapçı,kitap,430
+2026-09-19,8417,spend,Kart Dolum,ulaşım,460
+2026-09-19,9583,spend,Kart Dolum,ulaşım,270
+2026-09-20,1148,spend,Kırtasiye,kitap,70
+2026-09-20,9583,spend,Ayakkabıcı,giyim,830
+2026-09-20,6138,spend,Kitapçı,kitap,220
+2026-09-21,4821,spend,Oyun Mağazası,eğlence,440
+2026-09-21,2264,spend,Organik Pazar,market,330
+2026-09-21,5937,spend,Sinema Salonu,eğlence,300
+2026-09-21,1148,spend,Pizza Fırını,yemek,190
+2026-09-21,3092,spend,Köşe Lokanta,yemek,380
+2026-09-21,9583,spend,Kırtasiye,kitap,240
+2026-09-21,4479,spend,Oyun Mağazası,eğlence,640
+2026-09-21,6138,spend,Kampüs Kafe,yemek,310
+2026-09-22,4821,payment,-,-,3939
+2026-09-22,7310,spend,Kitapçı,kitap,420
+2026-09-22,6605,payment,-,-,3408
+2026-09-22,2750,spend,Dürümcü,yemek,250
+2026-09-23,7310,spend,Kitapçı,kitap,250
+2026-09-23,5937,spend,Ayakkabıcı,giyim,1670
+2026-09-23,3092,spend,Mahalle Market,market,770
+2026-09-23,4479,spend,Kırtasiye,kitap,400
+2026-09-23,2750,spend,Kırtasiye,kitap,340
+2026-09-24,4821,spend,Eczane,sağlık,150
+2026-09-24,7310,spend,Akaryakıt,ulaşım,180
+2026-09-24,5937,spend,Organik Pazar,market,810
+2026-09-24,8417,spend,Kart Dolum,ulaşım,160
+2026-09-24,8417,spend,Kart Dolum,ulaşım,160
+2026-09-24,4479,spend,Eczane,sağlık,100
+2026-09-24,2750,spend,Kitapçı,kitap,380
+2026-09-25,4821,spend,Kart Dolum,ulaşım,50
+2026-09-25,2264,spend,Kırtasiye,kitap,100
+2026-09-25,5937,spend,Kırtasiye,kitap,180
+2026-09-25,1148,spend,Eczane,sağlık,410
+2026-09-25,3092,spend,Eczane,sağlık,360
+2026-09-25,8417,spend,Mahalle Market,market,420
+2026-09-25,9583,spend,Ayakkabıcı,giyim,650
+2026-09-25,2750,spend,Ucuz Market,market,350
+2026-09-26,7310,spend,Kırtasiye,kitap,420
+2026-09-26,5937,spend,Ayakkabıcı,giyim,1460
+2026-09-26,1148,spend,Kırtasiye,kitap,400
+2026-09-26,6605,spend,Mahalle Market,market,520
+2026-09-26,3092,spend,Kart Dolum,ulaşım,390
+2026-09-26,9583,spend,Kırtasiye,kitap,320
+2026-09-26,2750,spend,Ucuz Market,market,130
+2026-09-26,6138,spend,Kampüs Kafe,yemek,230
+2026-09-27,4821,spend,Kırtasiye,kitap,370
+2026-09-27,2264,payment,-,-,6930
+2026-09-27,6605,spend,Eczane,sağlık,90
+2026-09-27,3092,payment,-,-,4757
+2026-09-27,8417,spend,Akaryakıt,ulaşım,320
+2026-09-27,2750,payment,-,-,5459
+2026-09-28,1148,spend,Mahalle Market,market,420
+2026-09-28,3092,spend,Eczane,sağlık,310
+2026-09-29,4821,spend,Kitapçı,kitap,330
+2026-09-29,7310,spend,Dürümcü,yemek,90
+2026-09-29,5937,spend,Taksi,ulaşım,520
+2026-09-29,6605,spend,Kitapçı,kitap,350
+2026-09-29,3092,spend,Kampüs Kafe,yemek,130
+2026-09-29,8417,spend,Eczane,sağlık,100
+2026-09-30,6605,spend,Taksi,ulaşım,230
+2026-09-30,3092,spend,Köşe Lokanta,yemek,80
+2026-09-30,8417,spend,Ayakkabıcı,giyim,1280
+2026-09-30,2750,spend,Ayakkabıcı,giyim,1670
+2026-09-30,6138,spend,Dürümcü,yemek,340
+2026-10-01,5937,spend,Ayakkabıcı,giyim,1150
+2026-10-01,1148,spend,Kırtasiye,kitap,410
+2026-10-01,6605,spend,Giyim Mağazası,giyim,2040
+2026-10-01,9583,spend,Eczane,sağlık,350
+2026-10-02,4821,spend,Giyim Mağazası,giyim,860
+2026-10-02,1148,spend,Eczane,sağlık,110
+2026-10-02,1148,payment,-,-,1275
+2026-10-02,9583,spend,Mahalle Market,market,360
+2026-10-02,4479,payment,-,-,5938
+2026-10-02,2750,spend,Organik Pazar,market,780
+2026-10-03,7310,spend,Akaryakıt,ulaşım,130
+2026-10-03,5937,spend,Oyun Mağazası,eğlence,330
+2026-10-03,6605,spend,Mahalle Market,market,360
+2026-10-04,4821,spend,Kitapçı,kitap,380
+2026-10-04,1148,spend,Mahalle Market,market,780
+2026-10-04,6605,spend,Pizza Fırını,yemek,170
+2026-10-04,9583,spend,Mahalle Market,market,430
+2026-10-04,2750,spend,Eczane,sağlık,210
+2026-10-05,4821,spend,Kart Dolum,ulaşım,540
+2026-10-05,7310,spend,Eczane,sağlık,380
+2026-10-05,5937,spend,Sinema Salonu,eğlence,520
+2026-10-05,3092,spend,Sinema Salonu,eğlence,680
+2026-10-05,9583,spend,Ayakkabıcı,giyim,1690
+2026-10-05,4479,spend,Kitapçı,kitap,380
+2026-10-05,6138,spend,Organik Pazar,market,410
+2026-10-06,4821,spend,Kart Dolum,ulaşım,100
+2026-10-06,2264,spend,Kart Dolum,ulaşım,310
+2026-10-06,5937,spend,Kitapçı,kitap,60
+2026-10-06,6605,spend,Kitapçı,kitap,320
+2026-10-06,3092,spend,Taksi,ulaşım,50
+2026-10-06,8417,spend,Taksi,ulaşım,270
+2026-10-06,2750,spend,Kitapçı,kitap,170
+2026-10-07,4821,spend,Bulut Depo,abonelik,29
+2026-10-07,4821,spend,Kitapçı,kitap,90
+2026-10-07,7310,spend,Bulut Depo,abonelik,29
+2026-10-07,7310,spend,Dürümcü,yemek,280
+2026-10-07,2264,spend,Spor Salonu,abonelik,750
+2026-10-07,5937,spend,Spor Salonu,abonelik,750
+2026-10-07,5937,spend,Müzik Kutusu,abonelik,59
+2026-10-07,1148,spend,Müzik Kutusu,abonelik,59
+2026-10-07,1148,spend,Spor Salonu,abonelik,750
+2026-10-07,1148,spend,Dizi Kutusu,abonelik,149
+2026-10-07,1148,spend,Sinema Salonu,eğlence,370
+2026-10-07,6605,spend,Dizi Kutusu,abonelik,149
+2026-10-07,6605,spend,Spor Salonu,abonelik,750
+2026-10-07,6605,spend,Müzik Kutusu,abonelik,59
+2026-10-07,3092,spend,Bulut Depo,abonelik,29
+2026-10-07,3092,spend,Dizi Kutusu,abonelik,149
+2026-10-07,3092,spend,Müzik Kutusu,abonelik,59
+2026-10-07,8417,spend,Müzik Kutusu,abonelik,59
+2026-10-07,8417,spend,Bulut Depo,abonelik,29
+2026-10-07,8417,spend,Spor Salonu,abonelik,750
+2026-10-07,9583,spend,Bulut Depo,abonelik,29
+2026-10-07,9583,spend,Spor Salonu,abonelik,750
+2026-10-07,9583,spend,Dizi Kutusu,abonelik,149
+2026-10-07,9583,spend,Kırtasiye,kitap,190
+2026-10-07,4479,spend,Dizi Kutusu,abonelik,149
+2026-10-07,4479,spend,Müzik Kutusu,abonelik,59
+2026-10-07,4479,spend,Spor Salonu,abonelik,750
+2026-10-07,2750,spend,Spor Salonu,abonelik,750
+2026-10-07,2750,spend,Bulut Depo,abonelik,29
+2026-10-07,6138,spend,Müzik Kutusu,abonelik,59
+2026-10-08,4821,spend,Mahalle Market,market,210
+2026-10-08,7310,spend,Ucuz Market,market,530
+2026-10-08,2264,spend,Organik Pazar,market,860
+2026-10-08,6605,spend,Eczane,sağlık,90
+2026-10-08,9583,spend,Kitapçı,kitap,380
+2026-10-08,4479,spend,Ucuz Market,market,520
+2026-10-08,2750,spend,Oyun Mağazası,eğlence,480
+2026-10-09,7310,spend,Taksi,ulaşım,70
+2026-10-09,2264,spend,Giyim Mağazası,giyim,1750
+2026-10-09,1148,spend,Taksi,ulaşım,280
+2026-10-09,6605,spend,Organik Pazar,market,180
+2026-10-09,3092,spend,Taksi,ulaşım,560
+2026-10-09,9583,spend,Akaryakıt,ulaşım,360
+2026-10-09,4479,spend,Ucuz Market,market,740
+2026-10-09,2750,spend,Pizza Fırını,yemek,150
+2026-10-09,6138,spend,Sinema Salonu,eğlence,650
+2026-10-10,4821,spend,Oyun Mağazası,eğlence,300
+2026-10-10,4821,spend,Oyun Mağazası,eğlence,300
+2026-10-10,7310,spend,Ayakkabıcı,giyim,650
+2026-10-10,2264,spend,Eczane,sağlık,340
+2026-10-10,6605,spend,Mahalle Market,market,800
+2026-10-10,4479,spend,Kitapçı,kitap,370
+2026-10-10,6138,spend,Akaryakıt,ulaşım,200
+2026-10-11,4821,spend,Kart Dolum,ulaşım,350
+2026-10-11,6605,spend,Kart Dolum,ulaşım,270
+2026-10-11,3092,spend,Mahalle Market,market,360
+2026-10-12,4821,spend,Ayakkabıcı,giyim,430
+2026-10-12,7310,spend,Dürümcü,yemek,390
+2026-10-12,7310,payment,-,-,811
+2026-10-12,5937,spend,Oyun Mağazası,eğlence,300
+2026-10-12,1148,spend,Taksi,ulaşım,590
+2026-10-12,6605,spend,Eczane,sağlık,290
+2026-10-12,8417,spend,Eczane,sağlık,300
+2026-10-12,8417,payment,-,-,1573
+2026-10-12,4479,spend,Eczane,sağlık,210
+2026-10-13,4821,spend,Kampüs Kafe,yemek,250
+2026-10-13,7310,spend,Kampüs Kafe,yemek,130
+2026-10-13,5937,spend,Kitapçı,kitap,360
+2026-10-13,6605,spend,Organik Pazar,market,340
+2026-10-13,6138,spend,Kart Dolum,ulaşım,310
+2026-10-14,4821,spend,Pizza Fırını,yemek,100
+2026-10-14,7310,spend,Pizza Fırını,yemek,390
+2026-10-14,2264,spend,Eczane,sağlık,270
+2026-10-14,4479,spend,Mahalle Market,market,810
+2026-10-14,6138,spend,Kampüs Kafe,yemek,410
+2026-10-15,2264,spend,Kitapçı,kitap,90
+2026-10-15,3092,spend,Eczane,sağlık,210
+2026-10-15,8417,spend,Kampüs Kafe,yemek,150
+2026-10-15,4479,spend,Giyim Mağazası,giyim,770
+2026-10-16,4821,spend,Dürümcü,yemek,230
+2026-10-16,3092,spend,Giyim Mağazası,giyim,680
+2026-10-16,8417,spend,Eczane,sağlık,200
+2026-10-16,9583,spend,Sinema Salonu,eğlence,180
+2026-10-16,4479,spend,Oyun Mağazası,eğlence,610
+2026-10-16,2750,spend,Akaryakıt,ulaşım,170
+2026-10-17,5937,payment,-,-,8529
+2026-10-17,6605,spend,Köşe Lokanta,yemek,250
+2026-10-17,3092,spend,Köşe Lokanta,yemek,320
+2026-10-17,8417,spend,Kırtasiye,kitap,340
+2026-10-17,9583,spend,Taksi,ulaşım,140
+2026-10-17,9583,payment,-,-,8708
+2026-10-17,4479,spend,Taksi,ulaşım,110
+2026-10-17,2750,spend,Ayakkabıcı,giyim,520
+2026-10-17,6138,payment,-,-,749
+2026-10-18,3092,spend,Ucuz Market,market,270
+2026-10-18,2750,spend,Oyun Mağazası,eğlence,560
+2026-10-19,4821,spend,Eczane,sağlık,210
+2026-10-19,6605,spend,Organik Pazar,market,880
+2026-10-19,3092,spend,Kampüs Kafe,yemek,260
+2026-10-19,9583,spend,Kırtasiye,kitap,150
+2026-10-19,2750,spend,Taksi,ulaşım,60
+2026-10-19,6138,spend,Kırtasiye,kitap,170
+2026-10-20,7310,spend,Köşe Lokanta,yemek,110
+2026-10-20,1148,spend,Ucuz Market,market,530
+2026-10-20,3092,spend,Dürümcü,yemek,290
+2026-10-20,2750,spend,Giyim Mağazası,giyim,550
+2026-10-21,6605,spend,Oyun Mağazası,eğlence,520
+2026-10-21,3092,spend,Ayakkabıcı,giyim,1080
+2026-10-21,6138,spend,Eczane,sağlık,450
+2026-10-22,4821,spend,Organik Pazar,market,750
+2026-10-22,4821,payment,-,-,6152
+2026-10-22,7310,spend,Pizza Fırını,yemek,310
+2026-10-22,6605,spend,Oyun Mağazası,eğlence,610
+2026-10-22,6605,payment,-,-,8078
+2026-10-22,3092,spend,Eczane,sağlık,110
+2026-10-22,8417,spend,Eczane,sağlık,220
+2026-10-22,2750,spend,Ucuz Market,market,240
+2026-10-23,7310,spend,Oyun Mağazası,eğlence,370
+2026-10-23,2264,spend,Mahalle Market,market,750
+2026-10-23,3092,spend,Mahalle Market,market,850
+2026-10-23,6138,spend,Oyun Mağazası,eğlence,280
+2026-10-24,4821,spend,Organik Pazar,market,540
+2026-10-24,7310,spend,Sinema Salonu,eğlence,460
+2026-10-24,8417,spend,Giyim Mağazası,giyim,1060
+2026-10-24,4479,spend,Organik Pazar,market,180
+2026-10-24,2750,spend,Ayakkabıcı,giyim,1270
+2026-10-24,6138,spend,Kart Dolum,ulaşım,330
+2026-10-25,2264,spend,Kitapçı,kitap,80
+2026-10-25,6605,spend,Eczane,sağlık,190
+2026-10-25,9583,spend,Eczane,sağlık,360
+2026-10-25,2750,spend,Eczane,sağlık,330
+2026-10-26,2264,spend,Oyun Mağazası,eğlence,310
+2026-10-27,2264,payment,-,-,4800
+2026-10-27,6605,spend,Giyim Mağazası,giyim,540
+2026-10-27,3092,spend,Giyim Mağazası,giyim,1620
+2026-10-27,3092,payment,-,-,6337
+2026-10-27,8417,spend,Oyun Mağazası,eğlence,640
+2026-10-27,9583,spend,Giyim Mağazası,giyim,1520
+2026-10-27,2750,payment,-,-,7549
+2026-10-28,4821,spend,Eczane,sağlık,160
+2026-10-28,6605,spend,Kitapçı,kitap,320
+2026-10-28,4479,spend,Köşe Lokanta,yemek,280
+2026-10-28,2750,spend,Eczane,sağlık,420
+2026-10-28,6138,spend,Dürümcü,yemek,60
+2026-10-29,4821,spend,Kart Dolum,ulaşım,90
+2026-10-29,2264,spend,Oyun Mağazası,eğlence,560
+2026-10-29,5937,spend,Taksi,ulaşım,580
+2026-10-29,6605,spend,Kart Dolum,ulaşım,320
+2026-10-29,9583,spend,Kitapçı,kitap,210
+2026-10-29,2750,spend,Giyim Mağazası,giyim,2260
+2026-10-30,4821,spend,Kitapçı,kitap,70
+2026-10-30,2264,spend,Akaryakıt,ulaşım,50
+2026-10-30,6605,spend,Ucuz Market,market,610
+2026-10-30,9583,spend,Eczane,sağlık,60
+2026-10-30,2750,spend,Eczane,sağlık,80
+2026-10-31,2264,spend,Eczane,sağlık,440
+2026-10-31,9583,spend,Konser Bileti,eğlence,440
+2026-11-01,7310,spend,Kitapçı,kitap,180
+2026-11-01,5937,spend,Giyim Mağazası,giyim,1830
+2026-11-01,1148,payment,-,-,969
+2026-11-01,3092,spend,Mahalle Market,market,480
+2026-11-01,4479,payment,-,-,5658
+2026-11-01,2750,spend,Giyim Mağazası,giyim,2060
+2026-11-02,4821,spend,Ayakkabıcı,giyim,420
+2026-11-02,2264,spend,Köşe Lokanta,yemek,280
+2026-11-02,5937,spend,Köşe Lokanta,yemek,230
+2026-11-02,1148,spend,Kart Dolum,ulaşım,290
+2026-11-02,3092,spend,Akaryakıt,ulaşım,180
+2026-11-02,9583,spend,Organik Pazar,market,520
+2026-11-03,4821,spend,Oyun Mağazası,eğlence,390
+2026-11-03,7310,spend,Eczane,sağlık,310
+2026-11-03,3092,spend,Ayakkabıcı,giyim,2010
+2026-11-03,9583,spend,Kart Dolum,ulaşım,270
+2026-11-03,4479,spend,Akaryakıt,ulaşım,270
+2026-11-03,2750,spend,Eczane,sağlık,190
+2026-11-04,4821,spend,Kırtasiye,kitap,60
+2026-11-04,5937,spend,Giyim Mağazası,giyim,470
+2026-11-04,3092,spend,Eczane,sağlık,490
+2026-11-04,4479,spend,Eczane,sağlık,70
+2026-11-04,2750,spend,Kampüs Kafe,yemek,300
+2026-11-05,4821,spend,Oyun Mağazası,eğlence,170
+2026-11-05,2264,spend,Kırtasiye,kitap,60
+2026-11-05,4479,spend,Ucuz Market,market,750
+2026-11-06,2264,spend,Organik Pazar,market,790
+2026-11-06,5937,spend,Organik Pazar,market,640
+2026-11-06,6605,spend,Köşe Lokanta,yemek,300
+2026-11-06,8417,spend,Kampüs Kafe,yemek,140
+2026-11-06,9583,spend,Mahalle Market,market,460
+2026-11-07,4821,spend,Bulut Depo,abonelik,29
+2026-11-07,7310,spend,Bulut Depo,abonelik,29
+2026-11-07,7310,spend,Mahalle Market,market,200
+2026-11-07,2264,spend,Spor Salonu,abonelik,750
+2026-11-07,2264,spend,Akaryakıt,ulaşım,560
+2026-11-07,5937,spend,Spor Salonu,abonelik,750
+2026-11-07,5937,spend,Müzik Kutusu,abonelik,59
+2026-11-07,1148,spend,Müzik Kutusu,abonelik,59
+2026-11-07,1148,spend,Dizi Kutusu,abonelik,149
+2026-11-07,6605,spend,Dizi Kutusu,abonelik,149
+2026-11-07,6605,spend,Spor Salonu,abonelik,750
+2026-11-07,6605,spend,Müzik Kutusu,abonelik,59
+2026-11-07,6605,spend,Kırtasiye,kitap,140
+2026-11-07,3092,spend,Bulut Depo,abonelik,29
+2026-11-07,3092,spend,Dizi Kutusu,abonelik,149
+2026-11-07,3092,spend,Müzik Kutusu,abonelik,59
+2026-11-07,3092,spend,Organik Pazar,market,840
+2026-11-07,8417,spend,Müzik Kutusu,abonelik,59
+2026-11-07,8417,spend,Bulut Depo,abonelik,29
+2026-11-07,9583,spend,Bulut Depo,abonelik,29
+2026-11-07,9583,spend,Spor Salonu,abonelik,750
+2026-11-07,9583,spend,Dizi Kutusu,abonelik,149
+2026-11-07,4479,spend,Dizi Kutusu,abonelik,149
+2026-11-07,4479,spend,Müzik Kutusu,abonelik,59
+2026-11-07,4479,spend,Spor Salonu,abonelik,750
+2026-11-07,2750,spend,Spor Salonu,abonelik,750
+2026-11-07,2750,spend,Bulut Depo,abonelik,29
+2026-11-07,6138,spend,Müzik Kutusu,abonelik,59
+2026-11-07,6138,spend,Kampüs Kafe,yemek,120
